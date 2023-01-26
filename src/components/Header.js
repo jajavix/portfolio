@@ -128,7 +128,12 @@ const Header = () => {
           </a>
         </li>
         <li>
-          <a href="/ux" onClick={() => setBurgerStatus(false)}>
+          <a
+            href="https://maria-j-villarin-uxportfolio.webflow.io/"
+            target="_blank"
+            rel="noreferrer"
+            onClick={() => setBurgerStatus(false)}
+          >
             UX Design Projects
           </a>
         </li>
