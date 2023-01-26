@@ -2,7 +2,7 @@ import React from "react";
 import styled from "styled-components";
 import { createGlobalStyle } from "styled-components";
 import { Link } from "react-scroll";
-import resume from "../assets/Maria J Villarin_TechResume.pdf";
+import resume from "../assets/Maria J Villarin_Resume.pdf";
 //nav bar and footer
 const Footer = () => {
   return (

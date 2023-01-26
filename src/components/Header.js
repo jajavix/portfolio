@@ -4,7 +4,7 @@ import { createGlobalStyle } from "styled-components";
 import MenuRoundedIcon from "@mui/icons-material/MenuRounded";
 import Fade from "react-reveal/Fade";
 import { Link } from "react-scroll";
-import resume from "../assets/Maria J Villarin_TechResume.pdf";
+import resume from "../assets/Maria J Villarin_Resume.pdf";
 import CloseIcon from "@mui/icons-material/Close";
 
 const Header = () => {

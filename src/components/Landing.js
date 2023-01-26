@@ -5,7 +5,7 @@ import HakoneImage from "../assets/Hakone_ne.png";
 import DownArrow from "../assets/down-arrow.svg";
 import Header from "./Header";
 import Fade from "react-reveal/Fade";
-import resume from "../assets/Maria J Villarin_TechResume.pdf";
+import resume from "../assets/Maria J Villarin_Resume.pdf";
 
 const Landing = () => {
   return (
