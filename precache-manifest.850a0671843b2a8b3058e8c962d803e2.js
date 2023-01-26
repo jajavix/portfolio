@@ -1,23 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "859a68bebf82e3ed69c5",
-    "url": "/portfolio/static/css/main.913f0a6b.chunk.css"
+    "revision": "8c49a91544b415432ec0",
+    "url": "/portfolio/static/css/main.11548d1c.chunk.css"
   },
   {
-    "revision": "859a68bebf82e3ed69c5",
-    "url": "/portfolio/static/js/main.859a68be.chunk.js"
+    "revision": "8c49a91544b415432ec0",
+    "url": "/portfolio/static/js/main.8c49a915.chunk.js"
   },
   {
-    "revision": "d01854737b9ab9e01fa9",
-    "url": "/portfolio/static/js/1.d0185473.chunk.js"
+    "revision": "fba1430c6bcb15a71b39",
+    "url": "/portfolio/static/js/1.fba1430c.chunk.js"
   },
   {
     "revision": "ee2a100325fd284f0097",
     "url": "/portfolio/static/js/runtime~main.ee2a1003.js"
-  },
-  {
-    "revision": "11688a682680016371ceaaa2fa31fb1a",
-    "url": "/portfolio/static/media/Maria J Villarin_Resume.11688a68.pdf"
   },
   {
     "revision": "7ea9a7041bea54f8465e7a723c90767e",
@@ -40,7 +36,7 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/BookStore.02f1c315.png"
   },
   {
-    "revision": "a4635c47982ecacf241415dd45a7a364",
+    "revision": "9adb8ad2230c5b0fe51385e15c7f85f8",
     "url": "/portfolio/index.html"
   }
 ];
