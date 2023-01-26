@@ -56,9 +56,14 @@ const Header = () => {
           </Link>
 
           {/*UX */}
-          <Link to="/ux" href="/">
-            UX Design
-          </Link>
+          <a
+            href="https://maria-j-villarin-uxportfolio.webflow.io/"
+            target="_blank"
+            rel="noreferrer"
+            className="nav-link"
+          >
+            UX
+          </a>
           {/*UX */}
           <Link
             to="technologies"
