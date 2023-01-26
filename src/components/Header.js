@@ -62,7 +62,7 @@ const Header = () => {
             rel="noreferrer"
             className="nav-link"
           >
-            UX
+            UX/Visual Room
           </a>
           {/*UX */}
           <Link
@@ -134,7 +134,7 @@ const Header = () => {
             rel="noreferrer"
             onClick={() => setBurgerStatus(false)}
           >
-            UX Design Projects
+            UX/Visual
           </a>
         </li>
         <li>
