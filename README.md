@@ -11,3 +11,5 @@ Website that provides my resume, inspiration and background, and personal projec
 - ![Material UI React](https://img.shields.io/badge/-Material%20UI%20React-1877F2?style=flat)
 
 ## Deployed Link
+
+https://jajavix.github.io/portfolio/

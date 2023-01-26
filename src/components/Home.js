@@ -14,7 +14,6 @@ const Home = () => {
       <Landing />
       <AboutMe />
       <Projects />
-
       <Tech />
       <ContactMe />
       <Footer />
