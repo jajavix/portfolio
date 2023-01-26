@@ -2,7 +2,7 @@ import React from "react";
 import styled from "styled-components";
 import { createGlobalStyle } from "styled-components";
 import { Link } from "react-scroll";
-import resume from "../assets/Maria J Villarin_Resume.pdf";
+//import resume from "../assets/Maria J Villarin_Resume.pdf";
 //nav bar and footer
 const Footer = () => {
   return (
@@ -56,7 +56,7 @@ const Footer = () => {
             Contact
           </Link>
           <a
-            href={resume}
+            href="https://docs.google.com/document/d/1vzobVV754_N8g7dh-SrAFnOrj8BdysEHuH3ARp9QIwQ/edit?usp=sharing"
             target="_blank"
             rel="noreferrer"
             className="footer-link"
