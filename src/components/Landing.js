@@ -5,7 +5,7 @@ import HakoneImage from "../assets/Hakone_ne.png";
 import DownArrow from "../assets/down-arrow.svg";
 import Header from "./Header";
 import Fade from "react-reveal/Fade";
-//import resume from "../assets/Maria J Villarin_Resume.pdf";
+import resume from "../assets/Maria J Villarin_TechnicalResume.pdf";
 
 const Landing = () => {
   return (
@@ -21,12 +21,7 @@ const Landing = () => {
       <Buttons>
         <ButtonGroup>
           <Fade left>
-            <a
-              href="https://docs.google.com/document/d/1vzobVV754_N8g7dh-SrAFnOrj8BdysEHuH3ARp9QIwQ/edit?usp=sharing"
-              target="_blank"
-              rel="noreferrer"
-              id="resume-link"
-            >
+            <a href={resume} target="_blank" rel="noreferrer" id="resume-link">
               RESUME
             </a>
           </Fade>

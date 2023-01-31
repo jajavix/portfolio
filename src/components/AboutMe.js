@@ -1,7 +1,7 @@
 import React from "react";
 import styled from "styled-components";
 import { createGlobalStyle } from "styled-components";
-import ProfilePicture from "../assets/Profile-Picture.jpg";
+import ProfilePicture from "../assets/profilepic.jpeg";
 import Fade from "react-reveal/Fade";
 
 const AboutMe = () => {

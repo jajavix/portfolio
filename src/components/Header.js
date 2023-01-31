@@ -4,7 +4,7 @@ import { createGlobalStyle } from "styled-components";
 import MenuRoundedIcon from "@mui/icons-material/MenuRounded";
 import Fade from "react-reveal/Fade";
 import { Link } from "react-scroll";
-//import resume from "../assets/Maria J Villarin_Resume.pdf";
+import resume from "../assets/Maria J Villarin_TechnicalResume.pdf";
 import CloseIcon from "@mui/icons-material/Close";
 
 const Header = () => {
@@ -96,7 +96,7 @@ const Header = () => {
         </Menu>
         <RightMenu>
           <a
-            href="https://docs.google.com/document/d/1vzobVV754_N8g7dh-SrAFnOrj8BdysEHuH3ARp9QIwQ/edit?usp=sharing"
+            href={resume}
             target="_blank"
             rel="noreferrer"
             className="nav-link"
@@ -159,7 +159,7 @@ const Header = () => {
         </li>
         <li>
           <a
-            href="https://docs.google.com/document/d/1vzobVV754_N8g7dh-SrAFnOrj8BdysEHuH3ARp9QIwQ/edit?usp=sharing"
+            href={resume}
             target="_blank"
             rel="noreferrer"
             onClick={() => setBurgerStatus(false)}
